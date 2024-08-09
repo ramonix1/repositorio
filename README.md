@@ -6,7 +6,7 @@
   <!--Tecnologias-->
   <h3>Tecnologias</h3>
   <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=figma&logoColor=3178C6" alt="PHP logo" title="FIGMA" height="25" />
+  <img src="https://img.shields.io/badge/FIGMA-282C34?logo=figma&logoColor=3178C6" alt="PHP logo" title="FIGMA" height="25" />
   <img src="https://img.shields.io/badge/LARAVEL-282C34?logo=Bizagi&logoColor=3178C6" alt="LARAVEL logo" title="BIZAGI" height="25" />
   <img src="https://img.shields.io/badge/POSTGRESQL-282C34?logo=postgresql&logoColor=3178C6" alt="POSTGRESQL logo" title="POSTGRESQL" height="25" />
   <img src="https://img.shields.io/badge/MYSQL-282C34?logo=sql&logoColor=3178C6" alt="MYSQL logo" title="SQL" height="25" />
